@@ -1,0 +1,3 @@
+The first observable trend is that there doesn't appear to be a correlation between the city latitude and cloudiness. There are quite a few cities clustered at 0 and 100, which suggests the variance is high.
+The second observable trend is that the city latitude vs humidity analysis is clustered together outside of one city, which would be an outlier in this analysis.
+The third trend is that there is a negative slope with the city latitude vs max temperature analysis. As the temperature reaches above 80 degrees and a lat of 0, then it goes downhill. 
